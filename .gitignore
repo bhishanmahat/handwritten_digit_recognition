@@ -1,0 +1,8 @@
+# Ignore dataset
+data/
+
+# Ignore venvs
+env_*/
+
+# Ignore models
+*.pth
